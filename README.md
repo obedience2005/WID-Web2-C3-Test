@@ -1,5 +1,5 @@
 
-## ✨ Features
+## Features
 - Fully responsive (mobile, tablet, desktop)
 - Hero section with call‑to‑action buttons
 - 3 feature cards (Education, Community, Mentorship)
@@ -9,13 +9,13 @@
 - Fade‑in animations on scroll/load
 - Accessible (semantic HTML, alt texts, proper contrast)
 
-## 🧪 How to Run Locally
+## How to Run Locally
 1. Clone the repository  
    `git clone https://github.com/YOUR-USERNAME/WID-Web2-C3.git`
 2. Open `index.html` in your browser.  
    No build step or server required.
 
-## 📦 Deployment
+## Deployment
 This project can be deployed instantly using:
 - **GitHub Pages** – just enable it in repo settings and select the branch.
 - **Netlify** – drag & drop the folder or connect repo.
